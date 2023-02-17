@@ -1,1 +1,6 @@
-# print_homework
+print ('''
+ =
+/ \\
+) (
+[_]
+''')
